@@ -1,30 +1,5 @@
 ﻿# redm_theatre 🎬
 Theatre shows for [RedM](https://redm.gg/)!
-
-## Table of Contents
-- [Preview](#preview)
-- [Commands](#commands)
-- [Exports](#exports)
-- [Available shows](#available-shows)
-- [Available movies](#available-movies)
-- [Available towns](#available-towns)
-- [Supported frameworks](#supported-frameworks)
-
-## Preview
-- [Cancan](https://streamable.com/6i8rnq)
-- [Fire Breather](https://streamable.com/qyv9v8)
-- [Josiah Blackwater Story](https://streamable.com/dsrt8s)
-
-# Commands
-- `/startshow showName`, to immediately start show.
-- `/startshow movieName townName`, to immediately start movie in town.
-- `/scheduleshow showName hour minute day`, to schedule a show, day is optional argument.
-- `/scheduleshow movieName townName hour minute day`, to schedule a movie, day is optional argument.
-
-## Exports
-- `exports["redm_theatre"]:StartShow(showName)` to start a local show.
-- `exports["redm_theatre"]:StartShow("MOVIE", townName, movieName)` to start a local movie.
-
 ## Available shows
 - BIGBAND_A
 - BIGBAND_B
@@ -65,5 +40,3 @@ Theatre shows for [RedM](https://redm.gg/)!
 - VALENTINE
 - BLACKWATER
   
-## Supported frameworks
-Basically, script is not compatible with any public framework as RedEM or VORP (you need to adapt it by yourself).
