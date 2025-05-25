@@ -1,42 +1,6 @@
-﻿# redm_theatre 🎬
-Theatre shows for [RedM](https://redm.gg/)!
-## Available shows
-- BIGBAND_A
-- BIGBAND_B
-- BULLETCATCH
-- CANCAN_A
-- CANCAN_B
-- ESCAPEARTIST
-- ESCAPENOOSE
-- FIREBREATH
-- FIREDANCE_A
-- FIREDANCE_B
-- FLEXFIGHT
-- ODDFELLOWS
-- SNAKEDANCE_A
-- SNAKEDANCE_B
-- STRONGWOMAN
-- SWORDDANCE
+st denis theatre shows 
 
-## Available movies
-- BEAR
-- JOSIAH
-- SECRET_OF_MANFLIGHT
-- SAVIORS_AND_SAVAGES
-- GHOST_STORY
-- DIRECT_CURRENT_DAMNATION
-- FARMERS_DAUGHTER
-- MODERN_MEDICINE
-- WORLDS_STRONGEST_MAN
-- SKETCHING_FOR_SWEETHEART
-- BEAR_TENT
-- JOSIAH_TENT
-- SECRET_OF_MANFLIGHT_TENT
-- SAVIORS_AND_SAVAGES_TENT
-- GHOST_STORY_TENT
+adjusted for rsg-core 
+and credits to https://github.com/xK3LY/redm_theatre for the intial script 
 
-## Available towns
-- SAINTDENIS
-- VALENTINE
-- BLACKWATER
-  
+https://github.com/xK3LY
